@@ -13,10 +13,10 @@ Sys.setenv(PATH = paste(Sys.getenv("PATH"), "*InstallDirectory*/Rtools/bin/",
 Sys.setenv(BINPREF = "*InstallDirectory*/Rtools/mingw_64/bin")
 
 #####all packages needed for this script, just install once####
-
+#None
 
 ####open all packages needed for this script, do every time #### 
-
+#None
 
 ####Getting the data in the right format ####
 otuabs <- read.csv("20200417_otuabsolute_from_mastersheet_nodup.csv",
